@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#portofolio {
+  background-color: #e2edff;
+}
+
+.card {
+  margin-top: 20px;
+}
+
+section {
+  padding-top: 5rem;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+footer a {
+  text-decoration: none;
+}
